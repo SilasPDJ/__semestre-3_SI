@@ -1,0 +1,2 @@
+registro REFERENCIADO não consigo excluir
+registro que está REFERENCIANDO outro, consigo excluir

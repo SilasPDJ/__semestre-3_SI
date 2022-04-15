@@ -1,0 +1,3 @@
+as tabelas fortes são referenciadas
+
+as tabelas fracas recebem referências

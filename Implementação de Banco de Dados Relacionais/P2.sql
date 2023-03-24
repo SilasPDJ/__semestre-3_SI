@@ -8,3 +8,4 @@ telefone varchar (30)
 
 select * from pacientes where nome="Ana Maria de Oliveira Freitas" LIMIT 1;
 SET autocommit = ON;
+show triggers;

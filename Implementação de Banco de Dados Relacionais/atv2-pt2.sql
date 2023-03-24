@@ -14,6 +14,8 @@ CREATE TABLE editora(
     endereco_estado char(2)
 );
 
+
+
 CREATE TABLE livro (
 	cod_livro int PRIMARY KEY AUTO_INCREMENT,
 	titulo VARCHAR(60) NOT NULL,
